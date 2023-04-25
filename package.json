@@ -27,7 +27,7 @@
     "@vercel/analytics": "^0.1.8",
     "dist-exiftool": "10.53.0",
     "isomorphic-unfetch": "^3.1.0",
-    "next": "^12.2.0",
+    "next": "^13.3.1",
     "node-exiftool": "2.3.0",
     "node-vibrant": "^3.2.1-alpha.1",
     "react": "^18.2.0",
